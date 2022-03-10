@@ -1,7 +1,7 @@
 # heviane.github.io
 
-- [README about my projects](https://heviane.github.io)
-- [Portfólio](https://heviane.github.io/heviane)
+- [Portfólio](https://heviane.github.io)
+- [Github](https://heviane.github.io/heviane)
 
 ## My Projects
 
